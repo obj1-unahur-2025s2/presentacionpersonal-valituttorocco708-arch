@@ -4,7 +4,7 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es: Rocco Valitutto
+- Mi nombre es: **Rocco Valitutto**
 - Vivo en Hurlingham
 
 
